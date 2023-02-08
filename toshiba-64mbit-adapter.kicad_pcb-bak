@@ -391,7 +391,7 @@
       (net 62 /ma0))
     (pad 1 smd rect (at -9.75 -5.75 270) (size 1.1 0.25) (layers F.Cu F.Paste F.Mask)
       (net 65 /ma15))
-    (model ${KISYS3DMOD}/Package_SO.3dshapes/TSOP-I-48_18.4x12mm_P0.5mm.wrl
+    (model ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-I-48_18.4x12mm_P0.5mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -427,7 +427,7 @@
       (net 43 +3V3))
     (pad 1 smd roundrect (at -0.9375 0 90) (size 0.975 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.25)
       (net 20 GND))
-    (model ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+    (model ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -470,7 +470,7 @@
       (net 20 GND))
     (pad 1 smd rect (at -1.1 0.95 180) (size 1.06 0.65) (layers B.Cu B.Paste B.Mask)
       (net 40 +5V))
-    (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+    (model ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -543,7 +543,7 @@
       (net 47 /md4))
     (pad 1 smd rect (at -2.95 2.925) (size 1.45 0.45) (layers B.Cu B.Paste B.Mask)
       (net 22 /E))
-    (model ${KISYS3DMOD}/Package_SO.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.wrl
+    (model ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -616,7 +616,7 @@
       (net 55 /md6))
     (pad 1 smd rect (at -2.95 2.925) (size 1.45 0.45) (layers B.Cu B.Paste B.Mask)
       (net 22 /E))
-    (model ${KISYS3DMOD}/Package_SO.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.wrl
+    (model ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -689,7 +689,7 @@
       (net 18 /A21))
     (pad 1 smd rect (at -2.95 2.925) (size 1.45 0.45) (layers B.Cu B.Paste B.Mask)
       (net 20 GND))
-    (model ${KISYS3DMOD}/Package_SO.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.wrl
+    (model ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -762,7 +762,7 @@
       (net 27 /A2))
     (pad 1 smd rect (at -2.95 2.925) (size 1.45 0.45) (layers B.Cu B.Paste B.Mask)
       (net 20 GND))
-    (model ${KISYS3DMOD}/Package_SO.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.wrl
+    (model ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -835,7 +835,7 @@
       (net 35 /A6))
     (pad 1 smd rect (at -2.95 2.925) (size 1.45 0.45) (layers B.Cu B.Paste B.Mask)
       (net 20 GND))
-    (model ${KISYS3DMOD}/Package_SO.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.wrl
+    (model ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
